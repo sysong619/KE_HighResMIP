@@ -1,5 +1,5 @@
 # KE_HighResMIP
-This repository contains post-processing scripts and figure generation tools for analyzing HighResMIP model outputs related to the Kuroshio Extension (KE) region.
+This repository contains post-processing and figure scripts.
 
 ---
 ## 📁 process Directory
